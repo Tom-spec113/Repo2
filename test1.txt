@@ -1,0 +1,10 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 046C-7C72
+
+ Directory of D:\MyProject
+
+05-07-2020  13:20    <DIR>          .
+05-07-2020  13:20    <DIR>          ..
+05-07-2020  13:20                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  149,451,837,440 bytes free
