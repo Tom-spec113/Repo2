@@ -1,0 +1,7 @@
+public Class Class1{
+  public static void main(String[] args){
+    
+    System.out.println("This is first file in this repository");
+  }
+
+}
